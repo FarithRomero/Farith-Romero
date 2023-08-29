@@ -6,34 +6,23 @@ Soy un desarrollador de software con un enfoque preciso y un apasionado compromi
 
 ## ¿Qué hago?
 
-Con experiencia en diversas tecnologías y plataformas, mi especialización abarca el desarrollo Full-stack, con conocimientos sólidos en tecnologías como React, Redux, Node.js, Express y Sequelize, además de diversas tecnologías integradoras como pasarelas de pago, nodeMailer, React-vite entre otras. Cuento con una experiencia sólida en el desarrollo de aplicaciones Roku, con dominio en herramientas como BrightScript, XML y SceneGraph para la creación de canales para dispositivos OTT.
+Con experiencia en diversas tecnologías y plataformas, mi especialización abarca el desarrollo Full-stack, con sólidos conocimientos en tecnologías como React, Redux, Node.js, Express y Sequelize. Además, integro diversas tecnologías como pasarelas de pago, nodeMailer, React-vite, entre otras. Mi experiencia también se extiende al desarrollo de aplicaciones Roku, donde domino herramientas como BrightScript, XML y SceneGraph para la creación de canales en dispositivos OTT.
 
+## ¿Cómo trabajo?
 
-### ¿Cómo trabajo?
+Cada línea de código que escribo busca infundir pasión y propósito. Abrazo cada nuevo proyecto con una ética de trabajo forjada en la lógica, el análisis y una visión meticulosa para resolver problemas. Mi habilidad para combinar el desarrollo con la creatividad me permite abordar proyectos desde múltiples perspectivas. Además, mi formación profesional, experiencia de vida y sentido de orden aportan un matiz único a mi comprensión de las necesidades especiales de cada proyecto.
 
-Con cada linea de codigo pretendo infundir pasión y propósito. Acojo cada nuevo proyecto con una ética de trabajo forjada en la lógica y análisis y una visión meticulosa en la resolución de problemas. Mi habilidad para combinar el desarrollo con la creatividad me permite abordar proyectos desde múltiples perspectivas. Además, mi formación profesional, experiencia de vida y sentido de orden agrega un matiz único a mi comprensión de las necesidades especiales de cada proyecto.
-
-### Certificaciones
+## Certificaciones
 
 - Fullstack Developer
 - Roku Developer
-- B2(Intermediate English Level)
+- B2 (Nivel Intermedio de Inglés)
 - Profesional en Finanzas
-- Tecnólogo en análisis de operaciones financieras
-  
-### Fortalezas
-
-- Autónomo
-- Analítico
-- Enfocado
-- Disciplinado
-- Perseverante
-- Buena lógica de programación
-- Escritura de código limpio
+- Tecnólogo en Análisis de Operaciones Financieras
 
 ### ¿Cómo puedes contactarme?
 
 Puedes escribirme a mi correo electrónico: farithromero@gmail.com
 
-Conéctate conmigo en LinkedIn [LinkedIn](https://www.linkedin.com/in/farith-romero-cano-7b80a5126) para explorar mis últimas odiseas tecnológicas y proyectos creativos. Juntos, podemos tejer el futuro digital.
+Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/farith-romero-cano-7b80a5126) para explorar mis últimas odiseas tecnológicas y proyectos creativos. Juntos, podemos tejer el futuro digital.
 
